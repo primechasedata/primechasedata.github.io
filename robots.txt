@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://primechasedata.github.io/al-folio/sitemap.xml
+Sitemap: https://primechasedata.github.io/sitemap.xml
